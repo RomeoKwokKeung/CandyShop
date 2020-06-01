@@ -8444,19 +8444,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\solom\\.nuget\\packages\\": {}
+    "C:\\Users\\Solomon Yue\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\solom\\source\\repos\\CandyShop\\CandyShop\\CandyShop.csproj",
+      "projectUniqueName": "C:\\Users\\Solomon Yue\\Documents\\GitHub\\CandyShop\\CandyShop\\CandyShop.csproj",
       "projectName": "CandyShop",
-      "projectPath": "C:\\Users\\solom\\source\\repos\\CandyShop\\CandyShop\\CandyShop.csproj",
-      "packagesPath": "C:\\Users\\solom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\solom\\source\\repos\\CandyShop\\CandyShop\\obj\\",
+      "projectPath": "C:\\Users\\Solomon Yue\\Documents\\GitHub\\CandyShop\\CandyShop\\CandyShop.csproj",
+      "packagesPath": "C:\\Users\\Solomon Yue\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Solomon Yue\\Documents\\GitHub\\CandyShop\\CandyShop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\solom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Solomon Yue\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8528,7 +8528,7 @@
           },
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.0.2, 3.0.2]"
+            "version": "[3.0.3, 3.0.3]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
@@ -8547,7 +8547,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
